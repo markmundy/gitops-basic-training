@@ -5,5 +5,5 @@ metadata:
 data:
   index.html: |
     Congratulations! <p>
-    Nearly at the end of day 1!!
+    Nearly at the end of day 1!! <p>
     This is your second app deployed via ArgoCD!
