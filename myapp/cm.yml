@@ -5,7 +5,5 @@ metadata:
 data:
   index.html: |
     
-    Hello Human User!
-
     Congratulations! <p>
     This is your second app deployed via ArgoCD!
