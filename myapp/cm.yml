@@ -4,6 +4,8 @@ metadata:
   name: secondapp-config
 data:
   index.html: |
+    
+    Hello Human User!
+
     Congratulations! <p>
-    Nearly at the end of day 1!! <p>
     This is your second app deployed via ArgoCD!
